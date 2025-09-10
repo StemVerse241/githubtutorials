@@ -80,3 +80,7 @@ Any suggestion and feedback is welcome. You can message me on facebook
 pip install setuptools
 python -m pip install --upgrade pip wheel
 pip install --force-reinstall django
+
+
+
+this ny naresh
